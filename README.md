@@ -1,4 +1,4 @@
-<img src="Image/Dp.jpg" alt="GitHub Banner" width="100%" />
+<img src="Image/Dp2.jpg" alt="GitHub Banner" width="100%" />
 
 # 𝐇ᴇʟʟᴏ 𝐖ᴏʀʟᴅ! 𝐈'ᴀᴍ 𝐋ɪɴᴜx 𝐒ᴇʀ, 𝐀 𝐊ᴇʀᴀʟᴀ 𝐖ᴇʙ 𝐃ᴇᴠᴇʟᴏᴩᴇʀ 🎐
 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘪 𝘢𝘮 𝘴𝘵𝘶𝘥𝘪𝘯𝘨 🧸🌿
